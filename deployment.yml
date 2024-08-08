@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: sample-app
-        image: devops091/dotnet-app:39
+        image: efrans88/dotnet-app:39
         ports:
         - containerPort: 80
         resources:
